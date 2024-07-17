@@ -1,0 +1,17 @@
+button {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor:pointer;
+    transition: .3s;
+}
+
+
+
+button:hover {
+    background-color: brown;
+    border-radius: 10px;
+    transform: rotate(3deg);
+}
